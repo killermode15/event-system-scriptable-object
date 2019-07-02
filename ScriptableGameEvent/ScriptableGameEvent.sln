@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptableEventSystem", "ClassLibrary1\ScriptableEventSystem.csproj", "{291287EE-6F95-42D5-BE5A-EB38E8F9CC89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptableGameEvent", "ScriptableGameEvent\ScriptableGameEvent.csproj", "{3632EC54-C0A5-4320-82B1-0A92CF43403C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{291287EE-6F95-42D5-BE5A-EB38E8F9CC89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{291287EE-6F95-42D5-BE5A-EB38E8F9CC89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{291287EE-6F95-42D5-BE5A-EB38E8F9CC89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{291287EE-6F95-42D5-BE5A-EB38E8F9CC89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3632EC54-C0A5-4320-82B1-0A92CF43403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3632EC54-C0A5-4320-82B1-0A92CF43403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3632EC54-C0A5-4320-82B1-0A92CF43403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3632EC54-C0A5-4320-82B1-0A92CF43403C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {63328B4C-8F7F-4C57-84D6-ADFC6E2A1368}
+		SolutionGuid = {7D61CC06-CDA7-488E-B70C-03984E69DD2B}
 	EndGlobalSection
 EndGlobal
